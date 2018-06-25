@@ -1,1 +1,1 @@
-puts "Hello Codeclan!"
+Hello Codeclan
